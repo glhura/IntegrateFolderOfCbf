@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# For OS X
+**/.DS_Store
+
+# `pyenv` users
+.python-version
+
+# VScode and PyCharm
+.vscode/
+.idea/
