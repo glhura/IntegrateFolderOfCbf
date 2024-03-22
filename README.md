@@ -29,7 +29,7 @@ Results/Subtracted/TestFiles/C2_results/Buffer1
 Results/Unsubtracted/TestFiles/C1b_results
 Results/Unsubtracted/TestFiles/C2_results
 
-To run the other python scripts are necessary:
+To run, these other python scripts are necessary:
 
 ChangeFileName.py
 GetIzeroValueForFile.py
