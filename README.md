@@ -25,6 +25,8 @@ In the TestFiles directory the folders "C2" and "C1b" are examples
 
 MIS_CBF_Foder.py TestFiles/C2 TestFiles/C1b
 
+MIS stands for Mask, Integrate and Subtract
+
 Should create folders:
 
 Results/Subtracted/TestFiles/C2_results/Buffer1
