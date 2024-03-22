@@ -17,6 +17,7 @@ An example of running this command is
 Should create TestFiles/C2_C2_snap_00001.dat
 
 For this code to be used by python scripts a pil_2m_integ_cbf.so file needs to be created as follows
+
 gcc -shared -o pil_2m_integ_cbf.so -fPIC pil_2m_integ_cbf.c
 
 Once available, the python script called MIS_CBF_Foder.py will act on two folders
@@ -25,6 +26,7 @@ In the TestFiles directory the folders "C2" and "C1b" are examples
 MIS_CBF_Foder.py TestFiles/C2 TestFiles/C1b
 
 Should create folders:
+
 Results/Subtracted/TestFiles/C2_results/Buffer1
 Results/Unsubtracted/TestFiles/C1b_results
 Results/Unsubtracted/TestFiles/C2_results
