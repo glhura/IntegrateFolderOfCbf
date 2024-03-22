@@ -21,7 +21,7 @@ gcc -shared -o pil_2m_integ_cbf.so -fPIC pil_2m_integ_cbf.c
 Once available, the python script called MIS_CBF_Foder.py will act on two folders
 In the TestFiles directory the folders "C2" and "C1b" are examples
 
-MIS_CBF_Foder.py TestFiles/C2 TestFilesC1b
+MIS_CBF_Foder.py TestFiles/C2 TestFiles/C1b
 
 Should create folders:
 Results/Subtracted/TestFiles/C2_results/Buffer1
