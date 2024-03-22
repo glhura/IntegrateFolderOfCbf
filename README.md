@@ -3,7 +3,8 @@
 pil_2m_integ_cbf.c integrates cbf images
 
 Stands for pilatus 2m integrated cbf
-To compile the c code
+To compile the c code:
+
 gcc -o pil_2m_integ_cbf pil_2m_integ_cbf.c -lm
 
 To run this code two other files need to be available in the "current working" directory 1) ExptParams and 2) X_Y_mask.asc
@@ -29,6 +30,7 @@ Results/Unsubtracted/TestFiles/C1b_results
 Results/Unsubtracted/TestFiles/C2_results
 
 To run the other python scripts are necessary:
+
 ChangeFileName.py
 GetIzeroValueForFile.py
 ID_SeqFileType_In_Dir.py
