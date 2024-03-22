@@ -30,7 +30,9 @@ MIS stands for Mask, Integrate and Subtract
 Should create folders:
 
 Results/Subtracted/TestFiles/C2_results/Buffer1
+
 Results/Unsubtracted/TestFiles/C1b_results
+
 Results/Unsubtracted/TestFiles/C2_results
 
 To run, these other python scripts are necessary:
